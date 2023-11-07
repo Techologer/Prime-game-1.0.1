@@ -1,0 +1,61 @@
+#statusprime{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#labelstatusprime{
+    font-size: 50px;
+}
+#prime1{
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+    margin-top: 30px;  
+}
+#startprime{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 150px;
+}
+#startprime1{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 35px;
+    border-radius: 30px;
+}
+#money{
+    font-size: 25px;
+}
+#myprimes{
+    background-image: 
+    linear-gradient(90deg,blue,red,green);
+    margin-top: 13px;
+    margin-left: 10px;
+    color: white;
+}
+#divmyprimes{
+    border: solid rgb(165, 161, 161);
+    width: 1230px;
+    height: 50px;
+    background-color: rgb(165, 161, 161);
+}
+#seemyprimes{
+    border: solid  rgb(165, 161, 161);
+    height: 400px;
+    width: 300px;
+    background-color: rgb(165, 161, 161);
+    border-radius: 25px;
+}
+#showing{
+    color: white;
+    margin-top: 270px;
+    margin-left: 150px;
+    background-color: black
+}
+#prime2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
